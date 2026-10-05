@@ -219,4 +219,4 @@ GB Studio is offered as a full free version with all features and updates includ
 Start creating your own Game Boy games today with GB Studio! Download now and unleash your creativity!
 
 ---
-**Last updated:** 2026-10-05 08:33:10 UTC
+**Last updated:** 2026-10-05 18:02:47 UTC
